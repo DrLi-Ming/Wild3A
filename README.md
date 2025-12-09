@@ -1,14 +1,10 @@
 <p align="center">
   <h1 align="center">Wild3A: Novel View Synthesis from Any Dynamic Images in Seconds</h1>
   <h3 align="center">MM '25</h3>
-    <p align="center">Mingrui Li<sup>*</sup>, Dong Li<sup>*</sup>, Sijia Hu, Kangxu Wang, Zhenjun Zhao and Hongyu Wang<sup>†</sup></p>
-    <h3 align="center"><a href="https://dl.acm.org/doi/10.1145/3746027.3754971">Paper</a> | <a href="https://github.com/user-attachments/assets/511c5911-9158-425c-a87e-ca107bbe068a">Video</a> </h3>
-    <video src="https://github.com/user-attachments/assets/511c5911-9158-425c-a87e-ca107bbe068a" width="100%" controls autoplay > </video>
+    <p align="center">Mingrui Li<sup>*</sup>, Shuhao Zhai<sup>*</sup>, Zibing Zhao, Luyue Sun, Zhenjun Zhao, Xinxiao Wang, Dong Li<sup>†</sup>, Shuhong Liu and Hongyu Wang<sup>†</sup></p>
+    <h3 align="center"><a href="https://dl.acm.org/doi/10.1145/3746027.3754899">Paper</a> | <a href="https://github.com/user-attachments/assets/d7a2e49b-fb5d-4d75-9c5a-c9c6e67da27a">Video</a> </h3>
+    <video src="https://github.com/user-attachments/assets/d7a2e49b-fb5d-4d75-9c5a-c9c6e67da27a" width="100%" controls autoplay > </video>
 </p>
-
-
-
-
 
 ## Abstract
 
@@ -16,7 +12,8 @@ Wild3A is an end-to-end framework for novel view synthesis in dynamic scenes. It
 
 We utilize [TUM RGB-D](https://cvg.cit.tum.de/data/datasets/rgbd-dataset), [BONN RGB-D](https://www.ipb.uni-bonn.de/data/rgbd-dynamic-dataset/index.html), [IMW2020](https://github.com/ubc-vision/image-matching-benchmark) and [NeRF-OTG](https://rwn17.github.io/nerf-on-the-go/) datasets to evaluate the performance of our algorithm, showing that Wild3A jointly optimizes scene representation and camera parameters, delivering artifact-free results, state-of-the-art performance, and real-time rendering at 1000+ FPS.
 
-<img width="1510" height="782" alt="image" src="https://github.com/user-attachments/assets/f529cd65-aa31-47e9-ab05-3c760a03de6d" />
+<img width="1243" height="635" alt="image" src="https://github.com/user-attachments/assets/454d7978-4749-48ef-8c08-e45e7b24601d" />
+
 
 ## Build
 
